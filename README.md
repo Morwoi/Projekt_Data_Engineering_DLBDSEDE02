@@ -170,7 +170,7 @@ Requirements: Docker Desktop (or Docker Engine + Compose plugin).
 
 ```bash
 git clone https://github.com/Morwoi/Projekt_Data_Engineering_DLBDSEDE02.git
-cd Projekt-Data-Engineering-DLBDSEDE02
+cd Projekt_Data_Engineering_DLBDSEDE02
 docker compose up --build
 ```
 
