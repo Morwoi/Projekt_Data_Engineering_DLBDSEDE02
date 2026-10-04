@@ -2,7 +2,7 @@ Wohlgenannt-Markus_IU14080395_DataEngineering_P3_S
 
 # Abstract: Stream Processing Pipeline for Municipal Environmental Sensors
 
-GitHub repository: https://github.com/Morwoi/Projekt-Data-Engineering-DLBDSEDE02
+GitHub repository: [https://github.com/Morwoi/Projekt-Data-Engineering-DLBDSEDE02](https://github.com/Morwoi/Projekt_Data_Engineering_DLBDSEDE02)
 
 ## Objective and scenario
 
