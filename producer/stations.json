@@ -1,0 +1,42 @@
+[
+  {
+    "station_id": "station-01",
+    "name": "Reiherstieg",
+    "land_use": "dense pre-war residential blocks, few trees",
+    "serves": "district planner: heat days and warm nights in the densest quarter",
+    "latitude": 53.5045,
+    "longitude": 9.985
+  },
+  {
+    "station_id": "station-02",
+    "name": "Kirchdorf-Sued",
+    "land_use": "1970s high-rise estate, many elderly residents and families",
+    "serves": "care service for elderly clients (citizen app, vulnerable profile); planner: cloudburst rainfall",
+    "latitude": 53.4825,
+    "longitude": 10.0235
+  },
+  {
+    "station_id": "station-03",
+    "name": "Hohe Schaar",
+    "land_use": "port industry and tank storage, shift work outdoors",
+    "serves": "terminal shift supervisor: current wind gusts for stopping outdoor work",
+    "latitude": 53.4975,
+    "longitude": 9.953
+  },
+  {
+    "station_id": "station-04",
+    "name": "Inselpark",
+    "land_use": "large park with sports grounds and a school campus nearby",
+    "serves": "district planner: green-space reference for cooling; schools and residents",
+    "latitude": 53.493,
+    "longitude": 10.0
+  },
+  {
+    "station_id": "station-05",
+    "name": "Georgswerder",
+    "land_use": "Elbe dike and Energieberg, open terrain, exposed to wind",
+    "serves": "district planner: storm and wind exposure at the dike",
+    "latitude": 53.512,
+    "longitude": 10.039
+  }
+]
